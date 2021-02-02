@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1546596826 source:c:\users\hp\desktop\data management algorithms\data management algorithms\data management algorithms\systemmanagement.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<algorithm>
+	<ctime>
+	<cstring>
+	<sstream>
+	<cstdio>
+	<cctype>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
